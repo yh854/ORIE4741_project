@@ -1,3 +1,9 @@
 # ORIE 4741 Project
 
-ORIE 4741 Project by Jin Cui, Yuqi Hong and Yifan Zhu
+## Members
+
+Jin Cui (jc3362)
+
+Yuqi Hong (yh854)
+
+Yifan Zhu (yz2522)
