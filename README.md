@@ -1,6 +1,6 @@
 # ORIE 4741 Project
 
-## Project Name: 
+## Project Name
 Advice for players to improve their gaming experience in a LOL match
 
 ## Members
